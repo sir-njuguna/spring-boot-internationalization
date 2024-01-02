@@ -40,7 +40,7 @@ We define the base names as the `messages` bundle in the applications classpath.
 The `addBasenames(...)` accepts multiple paths from which the messages have been defined. 
 In this case, we've defined the messages under the resources folder of our project.
 
-![Screenshot from 2024-01-02 13-21-06.png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202024-01-02%2013-21-06.png)
+![messages_bundle.png](docs%2Fmessages_bundle.png)
 
 Files for each locale should be named as `messages_xx.properties`, where the '`xx`' represents the locale code.
 The table below shows some sample messages properties files and their corresponding locales.
