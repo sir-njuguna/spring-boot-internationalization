@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Locale;
 
 @RestController
-public class MessageController {
+public class GreetingsController {
     private MessageService messageService;
 
     @GetMapping("hello")
